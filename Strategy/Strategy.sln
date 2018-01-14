@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{9EBA3955-FBDA-4764-B851-3C591AE9D72C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDelegate", "StrategyDelegate\StrategyDelegate.csproj", "{8C251132-E594-4581-A505-02B61258E0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EBA3955-FBDA-4764-B851-3C591AE9D72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBA3955-FBDA-4764-B851-3C591AE9D72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBA3955-FBDA-4764-B851-3C591AE9D72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBA3955-FBDA-4764-B851-3C591AE9D72C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C251132-E594-4581-A505-02B61258E0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C251132-E594-4581-A505-02B61258E0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C251132-E594-4581-A505-02B61258E0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C251132-E594-4581-A505-02B61258E0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FAD1A2D-F340-415F-B98D-4E4B2B741FCB}
+	EndGlobalSection
+EndGlobal
